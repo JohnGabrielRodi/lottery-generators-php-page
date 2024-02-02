@@ -1,45 +1,9 @@
 <html>
 <head>
-<style>
-.header {
+	
+	<link rel="stylesheet" type="text/css" href="style.css">
 
-    color: red;
-    text-align: center;
-    padding: 0px;
-    font-size: 200%;
-    width: 100%;
-    height: 200px;
-    height:10%;
-}
 
-.pick{
-    background-color: black;
-    text-align: center;
-    padding: 0px;
-    font-size: 200%;
-    width: 100%;
-    height: 50%;
-}
-
-.pick6 {
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 0px;
-    font-size: 75%;
-    top:0px;
-
-}
-
-.extra {
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 0px;
-    font-size: 75%;
-    top:0px;
-}
-</style>
 <title>
 Pick 6 Lottery Number Generators
 </title>
@@ -132,4 +96,4 @@ Array
 )
 */
 
-//4     29     7     12     27     48
+//4     29 
