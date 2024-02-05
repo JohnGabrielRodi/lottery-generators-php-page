@@ -26,6 +26,8 @@ Pick 6 Lottery Number Generators
             echo extra_sorted_pick_6();
         }
 
+//add crypto element to it
+
 function extra_sorted_pick_6(){
     $numbers = range(1, 49);
     shuffle($numbers);
